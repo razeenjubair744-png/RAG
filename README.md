@@ -1,6 +1,6 @@
-# 🚀 Advanced RAG System using LangChain
+# 🚀 RAG System using LangChain
 
-An advanced Retrieval-Augmented Generation (RAG) implementation built with LangChain that explores modern retrieval techniques including Query Expansion, Answer Expansion, Reranking, and Conversational Question Answering.
+A Retrieval-Augmented Generation (RAG) implementation built with LangChain that explores modern retrieval techniques including Query Expansion, Answer Expansion, Reranking, and Conversational Question Answering.
 
 This repository serves as a practical playground for understanding how production-grade RAG systems improve retrieval quality and answer accuracy beyond traditional vector search.
 
