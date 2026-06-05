@@ -1,0 +1,19 @@
+openai 
+torch
+transformers
+chromadb
+streamlit
+pypdf2
+langchain_community
+faiss-cpu
+unstructured
+selenium
+newspaper3k
+lxml-html-clean 
+langchain-ollama
+yt_dlp
+# for voice assistant RAG workflow
+soundfile
+sounddevice
+elevenlabs
+sentence-transformers
